@@ -11,7 +11,7 @@
   ·
   <a href="mailto:alvaroballarini03@gmail.com">Email</a>
   ·
-  <a href="https://github.com/Akvaro03/Vaulty">Vaulty</a>
+  <a href="https://github.com/alvaroballarini/Vaulty">Vaulty</a>
 </p>
 
 ## Sobre mí
@@ -27,7 +27,7 @@ Trabajo principalmente con **Node.js, TypeScript, React y Next.js**, participand
 
 ## Proyecto actual
 
-### [Vaulty](https://github.com/Akvaro03/Vaulty)
+### [Vaulty](https://github.com/alvaroballarini/Vaulty)
 
 Mi proyecto principal en desarrollo: una aplicación para organizar y comprender las finanzas personales. La estoy construyendo como un producto full stack con **Next.js, TypeScript, PostgreSQL, Prisma, React Query y Recharts**, priorizando una arquitectura mantenible, seguridad de los datos y una experiencia clara para el usuario.
 
